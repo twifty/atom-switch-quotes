@@ -1,0 +1,7 @@
+{
+  "atom-text-editor": {
+    "ctrl-'": "switch-quotes:toggle",
+    "alt-'": "switch-quotes:cycle",
+    "alt-*": "switch-quotes:scopes"
+  }
+}

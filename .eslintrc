@@ -1,0 +1,17 @@
+{
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "no-console": "off",
+    "no-fallthrough": "off",
+    "no-useless-escape": "off",
+    "no-cond-assign": "off",
+    "react/no-string-refs": "off"
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+}
