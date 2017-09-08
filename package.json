@@ -1,7 +1,7 @@
 {
   "name": "switch-quotes",
   "main": "./lib/main",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quickly toggles the quote characters",
   "keywords": [
     "quotes",
