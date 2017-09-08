@@ -1,9 +1,14 @@
 {
   "name": "switch-quotes",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Quickly toggles the quote characters",
-  "keywords": ["quotes", "replace", "editor", "toggle"],
+  "keywords": [
+    "quotes",
+    "replace",
+    "editor",
+    "toggle"
+  ],
   "repository": "https://github.com/twifty/atom-switch-quotes.git",
   "license": "MIT",
   "engines": {
