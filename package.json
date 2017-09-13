@@ -9,6 +9,13 @@
     "editor",
     "toggle"
   ],
+  "activationCommands": {
+    "atom-text-editor": [
+      "switch-quotes:toggle",
+      "switch-quotes:cycle",
+      "switch-quotes:scopes"
+    ]
+  },
   "repository": "https://github.com/twifty/atom-switch-quotes.git",
   "license": "MIT",
   "engines": {
