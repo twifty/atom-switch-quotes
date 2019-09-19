@@ -1,13 +1,20 @@
-# atom-switch-quotes package
+# atom switch-quotes package
 
 Tired of writing out string only to discover you used the wrong quote character? `switch-quotes` to the rescue.
 
 ##### Supports:
-1. Tabbed lines ;)
 1. Multi Lines
 1. Nested quote characters
-1. Heredoc and Nowdoc (currently only for PHP, though I will add others soon)
+1. Heredoc and Nowdoc
 1. Multi cursors
+1. String interpolation
+
+##### Languages:
+Toggling between single and double quote should work for all languages.
+Full range of string types are supported for:
+1. javascipt (inc. ES6)
+1. PHP
+1. python
 
 ##### Usage:
 Simply place the cursor within a quoted block of text and hit `alt-'` to cycle between each string type for the current grammar, or `ctrl-'` to toggle between single and double quotes.
