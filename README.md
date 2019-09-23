@@ -29,4 +29,5 @@ Highlight a selection within an existing string and hit `ctrl-'` to convert it t
 ### Notes
 This package is in its early days. I need testers and I need those testers to give feedback. If there any features you require or bugs found, please raise an issue on the github repo.
 
-In order for me to support new languages, I need first need to know how the strings in that language are structured. Giving me a sample file containing all possible string types, multiline types and interpolated types will speed up the process.
+In order for me to support new languages, I need first need to know how the strings in that language are structured. Giving me a sample file containing all possible string types, multiline types and interpolated types will speed up the process. Also, pressing `Alt + *`, while the cursor is within a string will
+log to the console (`Ctrl + Shift + I` within atom) the name of the grammar and scope of the string.
