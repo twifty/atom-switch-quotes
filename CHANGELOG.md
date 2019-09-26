@@ -4,6 +4,7 @@
 
 ## 0.1.1
 * Added python language (along with MagicPython)
+* Added c/c++ language
 * Fixed toggle to only switch between single and double quotes
 * Toggle should now work for all languages
 * Cursor adjustment handled by Text class

@@ -15,6 +15,7 @@ Full range of string types are supported for:
 1. javascipt (inc. ES6)
 1. PHP
 1. python
+1. C/C++
 
 ##### Usage:
 Simply place the cursor within a quoted block of text and hit `alt-'` to cycle between each string type for the current grammar, or `ctrl-'` to toggle between single and double quotes.
