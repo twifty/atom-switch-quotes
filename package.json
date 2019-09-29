@@ -13,7 +13,8 @@
     "atom-text-editor": [
       "switch-quotes:toggle",
       "switch-quotes:cycle",
-      "switch-quotes:scopes"
+      "switch-quotes:scopes",
+      "switch-quotes:highlight"
     ]
   },
   "repository": "https://github.com/twifty/atom-switch-quotes.git",
@@ -23,11 +24,5 @@
   },
   "dependencies": {
     "season": "^6.0.2"
-  },
-  "devDependencies": {
-    "babel-eslint": "^10.0.03",
-    "eslint": "^6.4.0",
-    "eslint-plugin-babel": "^5.3.0",
-    "eslint-plugin-react": "^7.14.3"
   }
 }
