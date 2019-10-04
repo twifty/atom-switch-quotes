@@ -2,7 +2,7 @@
 * Every feature added
 * Every bug fixed
 
-## 0.1.1
+## 0.2.0
 * Added python language (along with MagicPython)
 * Added c/c++ language
 * Fixed toggle to only switch between single and double quotes
